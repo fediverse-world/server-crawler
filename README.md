@@ -1,2 +1,5 @@
-# server-finder
-Distributed SNS Server Finder
+# server-crawler
+Distributed SNS Server crowler
+
+# License
+MIT License
